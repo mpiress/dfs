@@ -14,7 +14,7 @@
 <p> </p>
 
 <p align="justify">
-Algoritmos de busca são desenvolvidos com o objetivo de proporcionar formas de se visitar todos os vértices (V) de um grafo (G). Para tanto, utiliza-se meios de exploração ou varredura a partir das relações de adjacencia providas pelas ligações de arestas (E). Dado $G = {V,E}$ um grafo qualquer, um algoritmo de busca pode optar por (a) visitar, para cada vértice $v$, todas as relações de adjacencia (<a href="https://github.com/mpiress/graph_bfs">BFS</a>) a cada interação antes de avançar para novos vértices ou (b) visitar, a partir de um vértice $v$ qualquer, os caminhos em profundidade que partem de $v$ e tem como destino todos os demais vérticies em G. Neste tutorial, trataremos do segundo caso, conhecimo como algoritmo de busca depth-first search (DFS). 
+Algoritmos de busca são desenvolvidos com o objetivo de proporcionar formas de se visitar todos os vértices (V) de um grafo (G). Para tanto, utiliza-se meios de exploração ou varredura a partir das relações de adjacencia providas pelas ligações de arestas (E). Dado $G = \{V,E\}$ um grafo qualquer, um algoritmo de busca pode optar por (a) visitar, para cada vértice $v$, todas as relações de adjacencia (<a href="https://github.com/mpiress/graph_bfs">BFS</a>) a cada interação antes de avançar para novos vértices ou (b) visitar, a partir de um vértice $v$ qualquer, os caminhos em profundidade que partem de $v$ e tem como destino todos os demais vérticies em G. Neste tutorial, trataremos do segundo caso, conhecimo como algoritmo de busca depth-first search (DFS). 
 </p>
 
 <p align="justify">
@@ -26,7 +26,7 @@ Para compor um processo eficaz e que evite ciclos de execução, o DFS atribui o
 </p>
 
 <p align="center">
-  <img src="imgs/grafo2.png"/><br/>
+  <img src="imgs/grafo1.png"/><br/>
 </p>
 
 <p align="justify">
