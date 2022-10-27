@@ -83,7 +83,7 @@ Dado as definições de auxiliares acima descritas, tem-se como algoritmo de exe
 </p>
 
 <p align="justify">
-Observe pela Fig 3 que o algoritmo DFS é dividido em duas chamadas. A função DFS é executada inicialmente para pintar todos os vértices de branco, bem como, para inicializar o contator de ciclos para atribuições de descoberta e visitado. Para cada vértice que permanece em branco, ou seja, desconhecido, é realizada uma chamada à DFS-VISIT. Nessa função, o tempo de descoberta é introduzido, o vértice é pintado de cinza e uma chamada recursiva inicializada. Essa nessa chamada que o caminhamento em profundidade é implementado. 
+Observe pela Fig 3 que o algoritmo DFS é dividido em duas chamadas. A função DFS é executada inicialmente para pintar todos os vértices de branco, bem como, para inicializar o contator de ciclos para atribuições de descoberta e visitado. Para cada vértice que permanece em branco, ou seja, desconhecido, é realizada uma chamada à DFS-VISIT. Nessa função, o tempo de descoberta é introduzido, o vértice é pintado de cinza e uma chamada recursiva inicializada. Essa chamada inicializa o processo de caminhamento em profundidade, descobrindo novos vértices a partir das listas de adjacencia subsequentes. 
 </p>
 
 # Compilação e Execução
