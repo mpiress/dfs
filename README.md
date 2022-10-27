@@ -26,8 +26,11 @@ Para compor um processo eficaz e que evite ciclos de execução, o DFS atribui o
 </p>
 
 <p align="center">
-  <img src="imgs/grafo1.png"/>
-  <caption>Fig 1. Pequeno exemplo do resultado da execução do DFS em um grafo $G$ aleatório.</caption>
+  <img src="imgs/grafo1.png" /><br/>
+</p>
+
+<p align="center">
+<caption> Fig 1. Pequeno exemplo do resultado da execução do DFS em um grafo $G$ aleatório. </caption>
 </p>
 
 <p align="justify">
