@@ -52,7 +52,7 @@ Considerando o padrão de cores acima citada, sempre que um vértice $v$ é desc
 </p>
 
 <p align="center">
-  <img src="imgs/grafo1.png" /><br/>
+  <img src="imgs/grafo2.png" /><br/>
   <caption>Fig 2. Modelos de representação de vértice para as diferentes cores e numerações adotadas.</caption>
 </p>
 
